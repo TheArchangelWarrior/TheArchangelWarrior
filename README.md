@@ -6,7 +6,7 @@ Unity 2D Game Developer and Python Programmer
 
 I started coding with scratch when I was 10. Video games have always facinated me.
 
-* 🌍  I'm based in Illinois
+* 🌍  I'm based in IL
 * ✉️  You can contact me at [https://discord.gg/ShDHdV39v4](mailto:https://discord.gg/ShDHdV39v4)
 * 🚀  I'm currently working on [VALARIA](http://github.com/TheArchangelWarrior/VALARIA)
 * 🧠  I'm learning React, Typescript, SwiftUi
