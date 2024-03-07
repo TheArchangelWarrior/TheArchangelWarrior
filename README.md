@@ -1,7 +1,7 @@
 Hi 👋 My name is Angel Bitsov
 =============================
 
-Unity 2D Game Developer and Python Programmer
+Ex Unity 2D Game Developer, Python Programmer, and Godot4 beginner.
 ---------------------------------------------
 
 I started coding with scratch when I was 10. Video games have always facinated me.
@@ -9,7 +9,7 @@ I started coding with scratch when I was 10. Video games have always facinated m
 * 🌍  I'm based in Illinois
 * ✉️  You can contact me at [https://discord.gg/ShDHdV39v4](mailto:https://discord.gg/ShDHdV39v4)
 * 🚀  I'm currently working on [VALARIA](http://github.com/TheArchangelWarrior/VALARIA)
-* 🧠  I'm learning ReactTS, SwiftUi
+* 🧠  I'm learning ReactTS, SwiftUi, Godot4
 * ⚡  Im looking for people willing to help me with VALARIA
 
 <a href="https://www.github.com/TheArchangelWarrior" target="_blank" rel="noreferrer"><img
